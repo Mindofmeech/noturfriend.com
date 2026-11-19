@@ -1,0 +1,5 @@
+:HL["/_next/static/chunks/056kejygaexdm.css","style"]
+:HL["/img/hero-poster.jpg","image",{"fetchPriority":"high"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"sYbb-d4yCiUovHS3Cu2oi","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
